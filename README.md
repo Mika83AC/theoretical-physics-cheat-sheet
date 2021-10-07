@@ -1,4 +1,4 @@
-# The theoretical physics cheat sheet
+## The theoretical physics cheat sheet
 
 ## Table of contents
 - [Objects](#objects)
